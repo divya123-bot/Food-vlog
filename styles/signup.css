@@ -1,0 +1,42 @@
+.sign {
+    border-bottom: 1px solid black;
+    
+    
+    }
+     .form-control{
+      margin:auto;
+       width: 350px;
+       border: none;
+       border-bottom: 1px solid grey;
+       border-radius: 0px;
+      
+     }
+     .btn{
+        width: 100px;
+     }
+     .signup{
+      margin: auto;
+      margin-top: 25px;
+      width: 800px;
+      box-shadow: 2px 2px 2px 2px grey;
+      border-radius: 10px;
+     }
+     .signform{
+      padding: auto;
+     }
+     .check p
+     {
+      padding-left: 10px;
+    
+     }
+     .check a{
+     padding: 5px;
+     color: black;
+     }
+     .name input{
+      margin-top: 10px;
+     }
+     .link a{
+       color: black;
+      
+     }
